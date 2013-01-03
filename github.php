@@ -1,3 +1,5 @@
-<?php echo `git pull origin master`;
-
+<?php 
+$output = `git pull origin master`;
+echo "<prep>$output</prep>" ;
+?>
  
