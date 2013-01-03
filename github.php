@@ -1,1 +1,1 @@
-<?php `git pull`; 
+<?php `git pull git@github.com:mkjoshi-ekcs/Learning.git`; 
